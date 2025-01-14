@@ -1,5 +1,6 @@
-node_modules  
+node_modules/  
 .env  
+build/  
 .DS_Store  
 
----
+This initial version allows users to interact with a map and compute carbon emissions based on approximations. You can expand upon it by adding advanced map features, input validations, backend integration, or advanced APIs for vehicle emissions. Make sure to consult external API documentation for parameter details.
